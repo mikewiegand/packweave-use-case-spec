@@ -1,4 +1,4 @@
-# Packweave Use-Case Specification — Master Repository
+# Packweave Use-Case Specification
 
 This repository contains the **authoritative, versioned specifications** for the Packweave Use-Case Architecture — the framework that defines *how behavior is described, governed, inherited, and validated* across Packweave systems.
 
